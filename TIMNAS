@@ -1,0 +1,6 @@
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/AcVRLDqXs2m0ypCmmHx1tgg1e-s=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/3479520/904d5d.jpg" group-title="LIVE | EVENT",FMD√ INDONESIA VS TANZANIA | 15.30 WIB
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=97a2eab1196c4399306ff49619ad404f:1466c7f4c47eb3474077b6243411060e
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17400_stream.mpd?hdntl=exp=1717331052~acl=%2f*~id=158258972~data=hdntl~hmac=2b89493e528aa815e18b0f042c1c9fe71869b4be2945466d2bd373b8982dc653
